@@ -1,4 +1,4 @@
-searchkit component boilerplate (ES6 Babel webpack)
+searchkit component boilerplate (Typescript + webpack)
 
 ```shell
 npm install
