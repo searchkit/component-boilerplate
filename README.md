@@ -1,5 +1,9 @@
 searchkit component boilerplate (ES6 Babel webpack)
 
-component framework
-- express server using webpack middleware
-- 
+npm install
+typings install
+
+running
+
+npm run test:serve (localhost:4000 of component)
+npm run test:watch (unit)
